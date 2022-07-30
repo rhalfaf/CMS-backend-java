@@ -7,7 +7,6 @@ import pl.softr.cms.models.Post;
 import pl.softr.cms.repositories.PostRepository;
 
 import java.util.List;
-import java.util.Optional;
 
 @Service
 public class PostServiceImpl implements PostService {
